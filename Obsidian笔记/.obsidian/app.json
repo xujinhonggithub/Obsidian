@@ -1,4 +1,9 @@
 {
   "alwaysUpdateLinks": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "newFileLocation": "root",
+  "newFileFolderPath": "images",
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "./时间不对.assets"
 }
