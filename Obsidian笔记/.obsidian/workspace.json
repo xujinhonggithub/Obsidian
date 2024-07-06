@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "978a7a1a9db2ffae",
+    "type": "split",
+    "children": [
+      {
+        "id": "906271f598635cdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3afe52a1bfd0561",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1bef7287d680144f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee108f8455670094",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09c232a35bfbd6c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93bbc888cfe37bd6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "589d7a4f728acf61",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "c9a8dc88c480883e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "98b4097b9047fda7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a00a1a5fa34d6f89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89530536b8114346",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "67e70bf733551d97",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d16f56cdef07641",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "27ff367d201e4d02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "2dc33adc893099e2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e7fe242565bd329a",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:创建新看板": false,
+      "obsidian-memos:Thino": false
+    }
+  },
+  "active": "a3afe52a1bfd0561",
+  "lastOpenFiles": [
+    "task.md",
+    "test.md",
+    "2024-07-06.md",
+    "未命名/备忘录.md",
+    "未命名/命名.md",
+    "未命名",
+    "我的稳健.md",
+    "TEST.md",
+    "KQL42T}%)`1UOK81JT7W7$3_tmb 1.png",
+    "KQL42T}%)`1UOK81JT7W7$3_tmb.png",
+    "未命名.canvas",
+    "包/未命名 1.md",
+    "包/未命名.md",
+    "未命名 1",
+    "包"
+  ]
+}
