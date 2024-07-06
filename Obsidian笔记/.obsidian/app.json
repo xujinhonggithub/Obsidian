@@ -1,9 +1,9 @@
 {
   "alwaysUpdateLinks": true,
   "trashOption": "local",
-  "newFileLocation": "root",
+  "newFileLocation": "current",
   "newFileFolderPath": "images",
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "./images/删除还有效果吗"
+  "attachmentFolderPath": "./images/2024-07-06"
 }
