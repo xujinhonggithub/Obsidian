@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "906271f598635cdf",
+        "id": "b43cd40a7f3ca1cb",
         "type": "tabs",
         "children": [
           {
-            "id": "a3afe52a1bfd0561",
+            "id": "cfa7f9f64048eb00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-07-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23ff8f5010e86e69",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -174,12 +187,13 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "a3afe52a1bfd0561",
+  "active": "23ff8f5010e86e69",
   "lastOpenFiles": [
+    "时间不对.md",
+    "2024-07-06.md",
     "task.md",
     "test.md",
     "修噶没有生效吗.md",
-    "2024-07-06.md",
     "未命名/备忘录.md",
     "未命名/命名.md",
     "未命名",
